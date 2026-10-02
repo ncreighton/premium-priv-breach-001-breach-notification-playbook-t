@@ -1,0 +1,2 @@
+# premium-priv-breach-001-breach-notification-playbook-t
+When a breach hits, you have hours—not days—to notify stakeholders, regulators, and affected users. Without a documented playbook, chaos and legal exposure follow. The Breach Notification Playbook Template gives you the exact framework privacy engineers and security teams need to execute notifications flawlessly under pressure.  This Notion templat
